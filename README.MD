@@ -8,3 +8,5 @@ This is my effort to jump back in and get something done.
 Today I've retouched up on my knowledge of basic HTML syntax, using git within the terminal and seeing a project from start to finish.
 
 Descriptions written by myself and the recipes were provided to me by AI as my main focus was to complete the project.
+
+<a href="https://jordancojp.github.io/odin-recipes">Live Preview</a>
