@@ -12,6 +12,7 @@ h1 {
     max-width: 800px;
     margin: auto;
     margin-bottom: 32px;
+    border-radius: 16px;
 }
 
 p {
